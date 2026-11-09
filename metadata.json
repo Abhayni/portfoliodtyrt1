@@ -1,0 +1,6 @@
+{
+  "name": "Abhay Portfolio",
+  "description": "A premium futuristic personal portfolio website for Abhay, Creative Developer & UI Designer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
